@@ -1,0 +1,1 @@
+-noforcemparms -noforcemaccel -32bpp -w 640 -h 480 -gl -nomaster -console -game cstrike -insecure -freq 75
